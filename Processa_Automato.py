@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import os.path
 estado_anterior = ""
-NomeAutomato = "automato6.txt"  #Buscando arquivo de nome padrão
+NomeAutomato = "exemplodeautomato.txt"  #Buscando arquivo de nome padrão
 while(not os.path.isfile(NomeAutomato)): #Verificando se o Arquivo existe
     print("Arquivo não encontrado")
     NomeAutomato = input("Digite o nome do arquivo (exetensão '.txt'): ")#Solicitando nome do arquivo para busca
