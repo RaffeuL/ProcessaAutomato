@@ -10,7 +10,7 @@ o Codigo foi compilado com o python "3.6.1" pois é a versão que aceita a forma
 
 O programa foi feito de forma recursivo e percorre todas transições possiveis para um estado, caso a palavra seja aceita, o programa mostra a mensagem "LINHA DE PROCESSAMENTO ACEITA", porém continua testando as outras linhas de processamento possíveis, mesmo assim, ao final de todas as linhas de processamento ele printa se a palavra foi aceita ou não.
 
-#Process Automated
+# Process Automated
 Python program to interpret stack automata
 
 Explanation on compiling the Code:
